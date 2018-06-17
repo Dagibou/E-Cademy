@@ -1,0 +1,38 @@
+h1 {color: yellow ;}
+body {background-color:orange;}
+#carte
+{	
+	margin: 0 auto ;
+	text-align: center; 
+	align-content: center;
+	background-color: red ;
+}
+#python {width: 200px;
+ height: 200px;}
+
+
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+    display: inline-block;
+
+}
+
+nav.menu-nav ul li.btn a {
+	color: white ;
+	text-decoration: none;
+	background-color:red; 
+	padding:20px; 
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red; 
+	background-color: white;
+	transition: 0.75s all;
+}
+
+footer {
+	background-color: white;
+	height: 45px ;
+}
